@@ -1,0 +1,6 @@
+{
+  "name": "AETHER AI",
+  "description": "Futuristic Arabic-first cloud AI vision and voice assistant that transforms the smartphone camera into the eyes of an intelligent AI agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

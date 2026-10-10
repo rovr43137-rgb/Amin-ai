@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AETHER AI</string>
+    <string name="app_subtitle">المساعد البصري الذكي فائق التطور</string>
+    <string name="btn_start_stream">بدء البث المباشر</string>
+    <string name="btn_stop_stream">إيقاف البث</string>
+    <string name="btn_ask_vision">سؤال الكاميرا</string>
+    <string name="btn_listening">جاري الاستماع…</string>
+    <string name="status_ready">النظام جاهز للاستكشاف البصري</string>
+    <string name="status_analyzing">جاري التحليل السحابي اللحظي…</string>
+    <string name="status_speaking">أثير يتحدث إليك…</string>
+    <string name="provider_gemini">Google Gemini Flash (مجاني)</string>
+    <string name="provider_openrouter">OpenRouter Free Vision</string>
+    <string name="provider_custom">مزود مخصص (OpenAI Compatible)</string>
+    <string name="permission_camera_title">إذن الكاميرا مطلوب</string>
+    <string name="permission_camera_desc">يحتاج أثير إلى الوصول إلى الكاميرا ليرى محيطك ويحلل المشاهد في الوقت الفعلي.</string>
+    <string name="permission_audio_desc">يحتاج أثير إلى إذن الميكروفون للتحدث معه وسماع أسئلتك باللغة العربية الفصحى.</string>
+    <string name="consent_title">سياسة الخصوصية والذكاء السحابي</string>
+    <string name="consent_desc">يستخدم أثير الذكاء الاصطناعي السحابي لتحليل الإطارات والأسئلة الصوتية. لا يتم حفظ صورك أو بيعها، وتُرسل فقط لتحليل المشهد وتقديم الإجابة الذكية.</string>
+    <string name="btn_accept_continue">موافق ومتابعة</string>
+    <string name="quota_notice">الخدمة تستخدم الباقات المجانية للمزودات السحابية. يمكنك إضافة مفتاحك الخاص لرفع حدود الاستخدام في أي وقت.</string>
+</resources>
